@@ -56,6 +56,6 @@ The goal was to explore customer booking data and build a predictive model to es
 ## 👩‍💻 Author
 
 Grace Polito
-MSc Data Science 
-British Airways Data Science Virtual Experience – 2025
+- M.S. Data Science
+- British Airways Data Science Virtual Experience – 2025
 
