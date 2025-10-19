@@ -27,6 +27,11 @@ The goal was to explore customer booking data and build a predictive model to es
 | Logistic w/ Threshold (0.22) | Optimized recall | **Recall ↑ 10% → 63%** |
 | Random Forest | Feature importance & non-linear learning | **AUC 0.78** |
 
+## ROC Curve
+
+![ROC Curve – Logistic Regression (AUC ≈ 0.78)](images/roc_curve.png)
+
+
 ---
 
 ### ✅ 3. Results & Insights
