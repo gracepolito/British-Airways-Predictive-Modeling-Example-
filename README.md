@@ -42,7 +42,7 @@ The goal was to explore customer booking data and build a predictive model to es
 - 🕒 **Length of stay / trip duration**
 
 **Business impact:**
-- Helps BA **forecast customer commitment**, **optimize lounge/resource planning**, and **target high-intent customers**.
+- Helps BA **forecast customer commitment**, **optimize resource planning**, and **target high-intent customers**.
 
 ---
 
